@@ -86,7 +86,7 @@ Your machine should have npm and node.js installed to use it locally.
    Go to the forked repo and clone it to your local machine:
 
 ```sh
-git clone https://github.com/gauravydv36/Help-Horizon.git
+git clone https://github.com/bt-ech/Help-Horizon.git
 ```
 
 This will make a copy of the code to your local machine.
@@ -113,7 +113,7 @@ origin	https://github.com/Your_Username/help-horizon.git (push)
 To add upstream to remote, run:
 
 ```sh
-git remote add upstream https://github.com/gauravydv36/help-horizon.git
+git remote add upstream https://github.com/bt-ech/help-horizon.git
 ```
 
 Again run `git remote -v`, the response should look like:
@@ -121,8 +121,8 @@ Again run `git remote -v`, the response should look like:
 ```sh
 origin	https://github.com/Your_Username/help-horizon.git (fetch)
 origin	https://github.com/Your_Username/help-horizon.git (push)
-upstream	https://github.com/gauravydv36/help-horizon (fetch)
-upstream	https://github.com/gauravydv36/help-horizon (push)
+upstream	https://github.com/bt-echhelp-horizon (fetch)
+upstream	https://github.com/bt-ech/help-horizon (push)
 ```
 
 4. Once the remote is set, install all the necessary dependencies by the following command:
